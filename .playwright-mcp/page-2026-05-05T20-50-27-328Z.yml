@@ -1,0 +1,136 @@
+- generic [active] [ref=e1]:
+  - link "Gå til indholdet" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link [ref=e9] [cursor=pointer]:
+        - /url: https://restaurantmellow.dk
+      - navigation [ref=e13]:
+        - list [ref=e14]:
+          - listitem [ref=e15]:
+            - link "Mad og vin" [ref=e16] [cursor=pointer]:
+              - /url: https://restaurantmellow.dk/menu-og-vin/
+          - listitem [ref=e17]:
+            - link "Søndagsbrunch" [ref=e18] [cursor=pointer]:
+              - /url: https://restaurantmellow.dk/soendagsbrunch/
+          - listitem [ref=e19]:
+            - link "Selskaber" [ref=e20] [cursor=pointer]:
+              - /url: https://restaurantmellow.dk/selskaber-og-moeder/
+          - listitem [ref=e21]:
+            - link "Om os" [ref=e22] [cursor=pointer]:
+              - /url: https://restaurantmellow.dk/om-os/
+          - listitem [ref=e23]:
+            - link "Kontakt os" [ref=e24] [cursor=pointer]:
+              - /url: https://restaurantmellow.dk/kontakt-os/
+          - listitem [ref=e25]:
+            - link "Gavekort" [ref=e26] [cursor=pointer]:
+              - /url: https://giftcard.superbexperience.com/restaurantmellow
+          - listitem [ref=e27]:
+            - link "HotelVFjorden" [ref=e28] [cursor=pointer]:
+              - /url: https://hotelvfjorden.dk/
+      - link "Book bord" [ref=e33] [cursor=pointer]:
+        - /url: https://restaurantmellow.superbexperience.com/?fbclid=IwAR2zNx4wF3eQ6OMugvWAuXcwYfTo5JxkMoMoswzvI2y6kmWfInlFXM6rCn0
+        - generic [ref=e35]: Book bord
+    - generic [ref=e38]:
+      - heading "KONTAKT OS" [level=2] [ref=e46]
+      - generic [ref=e52]:
+        - heading "Kontakt os i dag" [level=1] [ref=e53]
+        - paragraph [ref=e54]:
+          - text: "Du kan reservere bord til A la Carte, Søndagsbrunch og særlige events på Mellow her:"
+          - link "Book bord" [ref=e55] [cursor=pointer]:
+            - /url: https://restaurantmellow.superbexperience.com/?fbclid=IwAR2zNx4wF3eQ6OMugvWAuXcwYfTo5JxkMoMoswzvI2y6kmWfInlFXM6rCn0
+        - paragraph [ref=e56]:
+          - text: Vil du vide mere om vores menuer eller have et uforpligtende tilbud på dit bryllup, runde dag, konfirmation, barnedåb eller mindesammenkomst, så kontakt os på tlf.
+          - link "62 62 10 62" [ref=e57] [cursor=pointer]:
+            - /url: tel:+4597822211
+          - text: eller
+          - link "mail@restaurantmellow.dk" [ref=e58] [cursor=pointer]:
+            - /url: mailto:mail@restaurantmellow.dk
+        - paragraph [ref=e59]:
+          - text: Vil du booke værelser på HotelVFjorden, så kontakt hotellets reception på tlf.
+          - link "97 82 22 11" [ref=e60] [cursor=pointer]:
+            - /url: tel:+4597822211
+          - text: eller mail
+          - link "info@hotelvfjorden.dk" [ref=e61] [cursor=pointer]:
+            - /url: mailto:info@hotelvfjorden.dk
+        - paragraph [ref=e62]: Vi glæder os til at høre fra dig.
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - link [ref=e72] [cursor=pointer]:
+          - /url: https://restaurantmellow.dk/dining/
+        - paragraph [ref=e75]:
+          - text: Restaurant Mellow ligger i de bløde bakker lige uden for Lemvig. Her er maden ud over det sædvanlige – skabt med omhu og inspiration fra Under Klippen.
+          - text: Nyd maden i godt selskab. Til parmiddagen for to eller det store selskab med måske ti, 20 eller 200 gæster. Uanset hvor mange I er, sikrer vi den rolige og intime stemning.
+        - generic [ref=e77]: © 2026 Restaurant Mellow. All Rights Reserved.
+        - list [ref=e80]:
+          - listitem [ref=e81]:
+            - link "Facebook-f" [ref=e82] [cursor=pointer]:
+              - /url: https://www.facebook.com/profile.php?id=61554936972140
+              - generic [ref=e83]: Facebook-f
+              - img [ref=e84]
+          - listitem [ref=e86]:
+            - link "Instagram" [ref=e87] [cursor=pointer]:
+              - /url: https://www.instagram.com/restaurantmellow_dk/
+              - generic [ref=e88]: Instagram
+              - img [ref=e89]
+      - generic [ref=e91]:
+        - heading "Kontakt" [level=2] [ref=e94]
+        - list [ref=e97]:
+          - listitem [ref=e98]:
+            - img [ref=e100]
+            - generic [ref=e102]:
+              - text: Søgårdevejen 6
+              - text: 7620 Lemvig
+          - listitem [ref=e103]:
+            - link "mail@restaurantmellow.dk" [ref=e104] [cursor=pointer]:
+              - /url: mailto:Mail@restaurantmellow.dk
+              - img [ref=e106]
+              - generic [ref=e108]: mail@restaurantmellow.dk
+          - listitem [ref=e109]:
+            - link "62 62 10 62" [ref=e110] [cursor=pointer]:
+              - /url: tel:%20+4562621062
+              - img [ref=e112]
+              - generic [ref=e114]: 62 62 10 62
+      - generic [ref=e115]:
+        - heading "Åbningstider" [level=2] [ref=e118]
+        - paragraph [ref=e121]:
+          - generic [ref=e122]:
+            - strong [ref=e123]: "Hele året:"
+            - text: Mandag – søndag kl. 17.00 – 21.00.
+            - strong [ref=e124]: "Hver søndag:"
+            - text: Søndagsbrunch 10.30 – 14.00.
+          - generic [ref=e125]:
+            - strong [ref=e126]: "Sommer:"
+            - text: 14/05 – 12/9 holder vi også åbent til frokost kl. 12.00 – 15.00.
+      - generic [ref=e127]:
+        - heading "Hurtige links" [level=2] [ref=e130]
+        - navigation [ref=e133]:
+          - list [ref=e134]:
+            - listitem [ref=e135]:
+              - link "Forside" [ref=e136] [cursor=pointer]:
+                - /url: https://restaurantmellow.dk/
+            - listitem [ref=e137]:
+              - link "Mad og vin" [ref=e138] [cursor=pointer]:
+                - /url: https://restaurantmellow.dk/menu-og-vin/
+            - listitem [ref=e139]:
+              - link "Søndagsbrunch" [ref=e140] [cursor=pointer]:
+                - /url: https://restaurantmellow.dk/soendagsbrunch/
+            - listitem [ref=e141]:
+              - link "Selskaber" [ref=e142] [cursor=pointer]:
+                - /url: https://restaurantmellow.dk/selskaber-og-moeder/
+            - listitem [ref=e143]:
+              - link "Om os" [ref=e144] [cursor=pointer]:
+                - /url: https://restaurantmellow.dk/om-os/
+            - listitem [ref=e145]:
+              - link "Kontakt os" [ref=e146] [cursor=pointer]:
+                - /url: https://restaurantmellow.dk/kontakt-os/
+            - listitem [ref=e147]:
+              - link "Gavekort" [ref=e148] [cursor=pointer]:
+                - /url: https://giftcard.superbexperience.com/restaurantmellow
+            - listitem [ref=e149]:
+              - link "HotelVFjorden" [ref=e150] [cursor=pointer]:
+                - /url: https://hotelvfjorden.dk/
+            - listitem [ref=e151]:
+              - link "Smiley rapport" [ref=e152] [cursor=pointer]:
+                - /url: https://www.findsmiley.dk/1414594
+  - generic [ref=e153]: desktop

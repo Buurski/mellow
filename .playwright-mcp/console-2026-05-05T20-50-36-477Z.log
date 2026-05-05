@@ -1,0 +1,12 @@
+[     285ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://restaurantmellow.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[     323ms] TypeError: Class extends value undefined is not a constructor or null
+    at 9318 (https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.18.2:3:93509)
+    at __webpack_require__ (https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2:2:150)
+    at 3163 (https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.18.2:3:93088)
+    at __webpack_require__ (https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2:2:150)
+    at 9978 (https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.18.2:3:494)
+    at __webpack_require__ (https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2:2:150)
+    at https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.18.2:3:217103
+    at __webpack_require__.O (https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2:2:510)
+    at https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.18.2:3:217123
+    at webpackJsonpCallback (https://restaurantmellow.dk/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2:2:5466)
